@@ -11,7 +11,7 @@ import utfpr.ct.dainf.if62c.pratica.TrianguloEquilatero;
 
 /**
  *
- * @author Anna
+ * @author Chin
  */
 public class Pratica43 {
         
